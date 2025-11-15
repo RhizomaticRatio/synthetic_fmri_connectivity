@@ -17,26 +17,32 @@ Both methods are visualized and compared.
 
 ## Repository Structure
 
+
+## Repository Structure
+
+```
 synthetic_fmri_connectivity/
 │
 ├── data/
-│ └── simulated_ar_rois.csv
+│   └── simulated_ar_rois.csv
 │
 ├── figures/
-│ └── connectivity_matrices.png
+│   └── connectivity_matrices.png
 │
 ├── notebooks/
-│ └── synthetic_fmri_connectivity_walkthrough.ipynb
+│   └── synthetic_fmri_connectivity_walkthrough.ipynb
 │
 ├── src/
-│ ├── simulate_signals.py
-│ └── connectivity_analysis.py
+│   ├── simulate_signals.py
+│   └── connectivity_analysis.py
 │
 ├── tests/
 │
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
 
 
 ## How It Works
