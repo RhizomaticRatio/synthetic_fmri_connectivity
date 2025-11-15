@@ -4,7 +4,13 @@
 import numpy as np 
 import pandas as pd
 
-def simulate_ar_rois(length=300, pi=0.6, gamma=0.3, beta=0.8, sigma=0.3, seed=42):
+def simulate_ar_rois(
+        length=300, 
+        pi=0.6, 
+        gamma=0.3, 
+        beta=0.8, 
+        sigma=0.3, 
+        seed=42):
     """
     Simulate 3 autoregressive (AR) signalS of given length 300 time steps choosen by default.
 
