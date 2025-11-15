@@ -15,8 +15,6 @@ Two connectivity measures are computed:
 
 Both methods are visualized and compared.
 
-## Repository Structure
-
 
 ## Repository Structure
 
