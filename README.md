@@ -47,7 +47,6 @@ synthetic_fmri_connectivity/
 
 ### 1. Signal Simulation
 `src/simulate_signals.py` generates a `(300 × 3)` matrix of synthetic ROI signals.  
-Running the script produces:
 
 ### 2. Connectivity Computation
 `src/connectivity_analysis.py` implements:
